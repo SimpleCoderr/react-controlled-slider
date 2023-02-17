@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-controlled-slider/static/css/main.2100a513.css",
+    "main.js": "/react-controlled-slider/static/js/main.1788b720.js",
+    "static/media/arrow.png": "/react-controlled-slider/static/media/arrow.825fb43384daf9aae663.png",
+    "index.html": "/react-controlled-slider/index.html",
+    "main.2100a513.css.map": "/react-controlled-slider/static/css/main.2100a513.css.map",
+    "main.1788b720.js.map": "/react-controlled-slider/static/js/main.1788b720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2100a513.css",
+    "static/js/main.1788b720.js"
+  ]
+}
